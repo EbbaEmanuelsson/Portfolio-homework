@@ -1,6 +1,6 @@
 
 body{
-    margin: 100px 30px;
+    margin: 150px 30px;
 
 }
 
@@ -8,18 +8,21 @@ h1,
 h2{
     font-family: 'Kalam', cursive;
     font-weight: 700;
+    font-size: 50px;
     color: rgba(0, 0, 0, 0.7); 
 }
 
 h3{
     font-family: 'Kalam', cursive;
     font-weight: 400;
+    font-size: 35px;
     color: rgba(0, 0, 0, 0.7);
 }
 
 h4{
     font-family: 'Kalam', cursive;
     font-weight: 300;
+    font-size: 30px;
     color: rgba(0, 0, 0, 0.7);
 }
 
@@ -29,6 +32,20 @@ a{
 }
 
 .plus{
-    width: 200px;
-    margin: 0px;
+    width: 260px;
 }
+
+.navigation-links a{
+    padding: 10px 25px;
+    font-size: larger;
+    font-family: 'Kalam', cursive;
+}
+
+.btn-about{
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.btn-about:hover{
+    color: rgba(0, 0, 0, 0.8);
+}
+
