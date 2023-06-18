@@ -9,25 +9,21 @@ h2{
     font-family: 'Kalam', cursive;
     font-weight: 700;
     font-size: 50px;
-    color: rgba(0, 0, 0, 0.7); 
 }
 
 h3{
     font-family: 'Kalam', cursive;
     font-weight: 400;
     font-size: 35px;
-    color: rgba(0, 0, 0, 0.7);
 }
 
 h4{
     font-family: 'Kalam', cursive;
     font-weight: 300;
     font-size: 30px;
-    color: rgba(0, 0, 0, 0.7);
 }
 
 a{
-    color: rgba(0, 0, 0, 0.7);
     text-decoration: none;
 }
 
@@ -41,11 +37,4 @@ a{
     font-family: 'Kalam', cursive;
 }
 
-.btn-about{
-    color: rgba(0, 0, 0, 0.8);
-}
-
-.btn-about:hover{
-    color: rgba(0, 0, 0, 0.8);
-}
 
