@@ -71,6 +71,25 @@ p{
     .project-description{
         text-align: center;
     }
+
+    .information h2{
+        text-align: center;
+    }
+
+    .information h3{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .information h4{
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    .icon{
+        margin: 0px 0px 0px 58px;
+    }
 }
 
 
