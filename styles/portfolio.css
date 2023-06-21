@@ -71,7 +71,9 @@ p{
     .project-description{
         text-align: center;
     }
+}
 
+@media (max-width: 1400px) {
     .information h2{
         text-align: center;
     }
